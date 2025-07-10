@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there, I'm Ish Malik! 👋
 
-<!--
-**ishmalik12/ishmalik12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE '27 | 💻 Developer | 🧠 AI Explorer |
 
-Here are some ideas to get you started:
+A Glimpse of What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code, I design, I Experiment, I learn.
+
+- 🔨 Building intuitive UIs with React + Tailwind  
+- 🤖 Training ML models that (hopefully) don’t hallucinate  
+- 🎮 Exploring virtual worlds in Unreal Engine
+- 💡 Turning wild ideas into working prototypes
+
+- Tech Toolbox
+
+| **Category** | **Tools & Languages** |
+|-------------|------------------------|
+| 🧑‍💻 Languages | C++, JavaScript, Python |
+| 🌐 Web Dev | HTML, CSS, React, Node.js, Express, Tailwind CSS |
+| 🧠 AI/ML | Scikit-learn(Learning), PyTorch (learning) |
+| 🧰 Tools | Git, VS Code, Google Colab, Figma |
+
+ Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ish-malik)
+- 📧 ishmalikbps@gmail.com  
+- 🌐 Portfolio: _Coming soon
