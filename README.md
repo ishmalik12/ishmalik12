@@ -22,6 +22,6 @@ I code, I design, I Experiment, I learn.
 
  Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ish-malik)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ishmalik/)
 - 📧 ishmalikbps@gmail.com  
 - 🌐 Portfolio: _Coming soon
